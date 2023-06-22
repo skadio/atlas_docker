@@ -1,6 +1,6 @@
 # Atlas Docker Image
 
-This project provides a streamlined workflow for building and publishing Docker image of Python libraries which serves as a BDSI for development
+This project provides a streamlined workflow for building and publishing Docker image of Python libraries.
 The automated workflow is triggered by a push to the main branch, a pull request to the main branch, or a scheduled cron job
 
 ## Prerequisites
