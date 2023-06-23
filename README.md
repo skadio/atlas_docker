@@ -10,7 +10,7 @@ The automated workflow is triggered by a push to the main branch, a pull request
 
 ```dockerignore
 # Example on how to pull the docker image from the Container Registry
-docker pull docker pull ghcr.io/skadio/atlas_docker:x.x.x
+docker pull ghcr.io/skadio/atlas_docker:x.x.x
 ```
 
 ## Contributing
