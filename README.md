@@ -8,7 +8,7 @@ The automated workflow is triggered by a push to the main branch, a pull request
 2. Use the GitHub Packages to pull the latest [Docker Image](https://github.com/skadio/atlas_docker/pkgs/container/atlas_docker)
 3. Run the following command using Docker CLI or a local terminal for pulling the latest docker image
 
-```dockerignore
+```dockerfile
 # Example on how to pull the docker image from the Container Registry
 docker pull ghcr.io/skadio/atlas_docker:x.x.x
 ```
