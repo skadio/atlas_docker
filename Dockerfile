@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# Use an official Python slim-buster runtime as a parent image
 FROM python:3.8-slim-buster
 
 # Install gcc and other dependencies
